@@ -27,4 +27,5 @@ python fake_user_detection.py
 - Add text analysis of bios
 
 ## Author
-Your Name
+Disha Samanta
+Kanishka Sharma
